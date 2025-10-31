@@ -1,6 +1,6 @@
 # Análise dos Hábitos dos Estudantes vs Performace Acadêmica
 
-Este projeto tem como objetivo analisar e tratar os dados sobre hábitos de estudantes, utilizando dados reais, técnicas de ETL em Python, visualização e análise dos em Microsoft Power BI.
+Este projeto tem como objetivo analisar e tratar os dados sobre hábitos de estudantes, utilizando dados reais, técnicas de ETL em Python, visualização e análise dos dados em Microsoft Power BI.
 
 ## Análise Realizada (Python)
 
