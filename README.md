@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar e tratar os dados sobre hábitos de estu
 
 A análise foi conduzida no Jupyter Notebook [`Notebook_de_testes.ipynb`](Notebook_de_testes.ipynb). Foram escolhidas e tratadas as colunas com as características que gostariamos de analisar no Power BI. O processo foi todo comentando no próprio codigo, como mostra a figura abaixo.
 
-![Python 1](imagens\Python_1.png)
+![Python 1](/imagens/Python1.png)
 
 
 ## Base de Dados
@@ -25,11 +25,11 @@ As principais bibliotecas utilizadas, listadas em [`requirements.txt`](requireme
 
 Dados tratados utilizados no Power BI.
 
-![Power BI imagem 1](imagens\Power_BI_1.png)
+![Power BI imagem 1](/imagens/Power1.png)
 
 Temos abaixo análise de cada atributo e seu impacto no resultado final. Foram dividios os estudantes em 3 grupos, de acordo com a sua alimentação: Pobre, Razoável e Boa. 
 
-![Power BI imagem 2](imagens\Power_BI_2.png)
+![Power BI imagem 2](/imagens/Power2.png)
 
 ## Conclusões
 
